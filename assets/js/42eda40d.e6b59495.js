@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[935],{6371:function(s){s.exports=JSON.parse('{"allTagsPath":"/osd-docusaurus/blog/tags","slug":"/osd-docusaurus/blog/tags/greetings","name":"greetings","count":1,"permalink":"/osd-docusaurus/blog/tags/greetings"}')}}]);
